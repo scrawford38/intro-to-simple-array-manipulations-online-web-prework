@@ -35,7 +35,7 @@ def using_uniq(array)
 end
 
 def using_flatten(array)
-  updated_array = array.flatten(array.to.s)
+  updated_array = array.flatten
 end
 
 def using_delete
