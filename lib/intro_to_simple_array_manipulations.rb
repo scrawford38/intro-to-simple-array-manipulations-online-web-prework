@@ -17,4 +17,3 @@ def pop_with_args(array)
   updated_array = array.pop(2)
   return updated_array
 end
-
