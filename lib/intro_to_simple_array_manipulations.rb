@@ -34,4 +34,13 @@ def using_uniq(array)
   updated_array = array.uniq
 end
 
-def
+def using_flatten(array)
+  updated_array = array.flatten(array.to.s)
+end
+
+def using_delete
+end
+
+def using_delete_at
+end
+  
